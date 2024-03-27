@@ -1,0 +1,20 @@
+[
+  {
+    "name": "T-Shirt",
+    "image": "1.jpg",
+    "price": "$20",
+    "description": "Comfortable cotton t-shirt for everyday wear."
+  },
+  {
+    "name": "Jeans",
+    "image": "2.jpg",
+    "price": "$35",
+    "description": "Classic blue jeans for any occasion."
+  },
+  {
+    "name": "Dress",
+    "image": "3.jpg",
+    "price": "$50",
+    "description": "Elegant dress perfect for formal events."
+  }
+]
